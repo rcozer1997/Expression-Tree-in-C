@@ -13,12 +13,13 @@ int main()
         printf("Problemas na abertura do arquivo\n");
         exit(1);
     }
-
-    Node* arvore = montaArvore(arq);
-    printaArvore(arvore);     
-   
-
     
+    do{
+    Node* arvore = montaArvore(arq);
+    printaArvore(arvore);
+    printf("\n\n");     
+
+    }while(!feof(arq));
     
     return 0;
 

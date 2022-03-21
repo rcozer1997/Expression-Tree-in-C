@@ -77,13 +77,16 @@ Node* montaArvore(FILE* arq){
        buffer[0] = fgetc(arq);
        
         if(isspace (buffer[0]) || buffer[0] == EOF){
-            
+            //come o "caracter" de final de arquivo
+            fgetc(arq);        
             return no;
         }
      buffer[1] = '\0';
       
+      //come o parenteses que abre um numero
       fgetc(arq); 
       Node* dir = montaArvore(arq);
+      //come o parenteses que fecha um numero
       fgetc(arq);
           return criaNo(dir, no, buffer);
       
@@ -94,6 +97,7 @@ Node* montaArvore(FILE* arq){
 
     }
 
+    //Sobrescreve o parenteses de fechamento e determina final da string
    buffer[i] = '\0';
         return criaNo(novaArvore(), novaArvore(), buffer);
     
