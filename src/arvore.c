@@ -25,6 +25,8 @@ Node* criaNo(Node* dir, Node* esq, char* caracter)
         raiz->dir = dir;
         raiz->esq = esq;
 
+        printf("String: %s, Primeiro Digito: %d\n\n", caracter, caracter[0]);
+
           return raiz;
      
 }
@@ -117,8 +119,8 @@ float calculaArvore(Node* no)
        
       }
     
-    int subArvEsq = calculaArvore(no->esq);
-    int subArvDir = calculaArvore(no->dir);
+    float subArvEsq = calculaArvore(no->esq);
+    float subArvDir = calculaArvore(no->dir);
     
     if(retornaCaracter(no)[0] == '+'){
       return (subArvEsq + subArvDir);

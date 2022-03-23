@@ -13,19 +13,16 @@ int main()
         exit(1);
     }
     
-    float resultado;
+    //float resultado;
     do{
-        
+    float resultado;
     Node* arvore = montaArvore(arq);
-    //printaArvore(arvore);
-    //printf("\n\n");     
-    //preOrdem(arvore);
-    //emOrdem(arvore);
-    //printf("\n\n");
+    printaArvore(arvore);
+    printf("\n\n");     
     resultado = calculaArvore(arvore);
    
     fprintf(saida, "%.2f\n", resultado);
-    //criaSaida(resultado);
+    criaSaida(resultado);
 
     }while(!feof(arq));
 
