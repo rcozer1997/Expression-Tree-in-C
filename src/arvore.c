@@ -93,7 +93,7 @@ Node* montaArvore(FILE* arq){
 
 
 
-void preOrdem(Node* raiz){
+/*void preOrdem(Node* raiz){
 
   if(raiz != NULL){
     //printf("%s\t", raiz->caracter);
@@ -102,7 +102,7 @@ void preOrdem(Node* raiz){
 
   }
 
-}
+}*/
 
 
 float calculaArvore(Node* no)

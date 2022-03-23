@@ -19,7 +19,7 @@ int main()
     Node* arvore = montaArvore(arq);
     //printaArvore(arvore);
     //printf("\n\n");     
-    preOrdem(arvore);
+    //preOrdem(arvore);
     //emOrdem(arvore);
     //printf("\n\n");
     resultado = calculaArvore(arvore);
