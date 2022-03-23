@@ -53,19 +53,6 @@ void liberaArvore(Node* raiz){
 }
 
 
-   
-/*void manipulaArquivo (){
-
-    FILE* arq = fopen("data/entrada.txt", "r");
-
-    if (arq == NULL)
-    {
-        printf("Problemas na abertura do arquivo\n");
-        exit(1);
-    }
-     
-}*/
-
 Node* montaArvore(FILE* arq){
     char buffer[100];
     int i;
@@ -78,6 +65,7 @@ Node* montaArvore(FILE* arq){
        
         if(isspace (buffer[0]) || buffer[0] == EOF){
             //come o "caracter" de final de arquivo
+            //caso seja linux, REMOVER este fgetc
             fgetc(arq);        
             return no;
         }
@@ -103,4 +91,69 @@ Node* montaArvore(FILE* arq){
     
 }
 
-//((((5)-(3))*((4)/(1)))+(10))
+
+
+void preOrdem(Node* raiz){
+
+  if(raiz != NULL){
+    //printf("%s\t", raiz->caracter);
+    preOrdem(raiz->dir);
+    preOrdem(raiz->esq);
+
+  }
+
+}
+
+
+float calculaArvore(Node* no)
+{   
+    
+    char* c = retornaCaracter(no);
+    if(no != NULL) 
+    {
+  if(no->dir == NULL && no->esq == NULL){
+      //entao é numero
+       return atoi(c);
+       
+      }
+    
+    int subArvEsq = calculaArvore(no->esq);
+    int subArvDir = calculaArvore(no->dir);
+    
+    if(retornaCaracter(no)[0] == '+'){
+      return (subArvEsq + subArvDir);
+    }
+    if(retornaCaracter(no)[0] == '-'){
+      return (subArvEsq - subArvDir);
+    }
+    if(retornaCaracter(no)[0] == '/'){
+      return (subArvEsq / subArvDir);
+    }
+    if(retornaCaracter(no)[0] == '*'){
+      return (subArvEsq * subArvDir);
+    }
+
+    }
+
+} 
+
+/*void criaSaida(float resultado){
+    FILE* saidas = fopen("data/saida.txt", "w");
+   
+    fprintf(saidas, "%.2f\n", resultado);
+
+    //free(aux);
+    fclose(saidas);
+
+}*/
+
+char* retornaCaracter(Node* arv){
+
+    if(arv != NULL)
+    {
+      return arv->caracter;
+    }
+
+
+
+}

@@ -19,6 +19,12 @@ void printaArvore(Node* raiz);
 
 void liberaArvore(Node* raiz);
 
+float calculaArvore(Node* no);
 
+void preOrdem(Node* raiz);
+
+//void criaSaida(float resultado);
+
+char* retornaCaracter(Node* arv);
 
 #endif
