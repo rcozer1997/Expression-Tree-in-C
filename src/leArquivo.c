@@ -21,7 +21,7 @@ void leArquivo(){
     resultado = calculaExpressoes(arvore);
     fprintf(graph, "strict graph {\n");
     fprintf(graph, "\n");
-    emOrdem(arvore, graph);
+    preOrdem(arvore,graph);
     fprintf(saida, "%.2f\n", resultado);
     fprintf(graph, "}\n");
     fprintf(graph, "\n");

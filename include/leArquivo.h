@@ -6,7 +6,4 @@
  */
 void leArquivo();
 
-
-
-
 #endif

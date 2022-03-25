@@ -10,12 +10,10 @@ struct node{
   Node* esq;
 };
 
-
 Node* novaArvore()
 {
       return NULL;    
 }
-
 
 Node* criaNo(Node* dir, Node* esq, char* caracter)
 {   
@@ -25,10 +23,8 @@ Node* criaNo(Node* dir, Node* esq, char* caracter)
         raiz->dir = dir;
         raiz->esq = esq;
 
-          return raiz;
-     
+          return raiz;    
 }
-
 
 void liberaArvore(Node* arv){
 
@@ -37,9 +33,7 @@ void liberaArvore(Node* arv){
       liberaArvore(arv->dir);
       free(arv);
     }
-
 }
-
 
 Node* montaArvore(FILE* arq){
     char buffer[1000];
@@ -124,22 +118,14 @@ char* retornaCaracter(Node* no){
     }
 }
 
-void emOrdem(Node* arv, FILE* graph)
+void preOrdem(Node* node, FILE* graph)
 {
-   //number = number + 1;
-   int i;
- if(arv!=NULL)
- {
-  emOrdem(arv->esq, graph);  
-  fprintf(graph, "no[label = %s];\n no--no\n",arv->caracter);
-  emOrdem(arv->dir, graph);
- }
- 
-}
-/*
-int quantNodes(Node* arv){
-  if (arv!= NULL){
-    return 1 + quantNodes(arv->esq) + quantNodes(arv->dir);
-  }
+    if (node == NULL)
+        return;
 
-}*/
+    fprintf(graph, "no[label = %s];\n no--no\n", node->caracter);
+    preOrdem(node->esq, graph);
+    preOrdem(node->dir, graph);
+}
+ 
+

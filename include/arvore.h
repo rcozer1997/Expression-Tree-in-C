@@ -48,15 +48,6 @@ float calculaExpressoes(Node* no);
 char* retornaCaracter(Node* no);
 
 /**
- * @brief ordena e printa a arvore no formato "em ordem" no arquivo graphviz.txt
- * @param arv - A arvore a ser ordenada
- * @param graph - arquivo graphviz ja aberto
- */
-void emOrdem(Node* arv, FILE* graph);
-
-//int quantNodes(Node* arv);
-
-/**
  * @brief confere os operadores dos nós de uma arvore de expressoes devidamente montada
  * @param no - O nó de uma arvore a ser analisado 
  * @param subArvEsq - o valor numérico, em float, de uma sub arvore esquerda
@@ -64,5 +55,12 @@ void emOrdem(Node* arv, FILE* graph);
  * @return retorna o resultado, em float, de acordo com o operando encontrado no nó pai
  */
 float confereOperadores(Node* no, float subArvEsq, float subArvDir);
+
+/**
+ * @brief ordena e printa a arvore no formato "pre ordem" no arquivo graphviz.txt
+ * @param arv - A arvore a ser ordenada
+ * @param graph - arquivo graphviz ja aberto
+ */
+void preOrdem(Node* node, FILE* graph);
 
 #endif
