@@ -1,0 +1,4690 @@
+strict graph {
+
+no[label = 3];
+ no--no
+no[label = -];
+ no--no
+no[label = 2];
+ no--no
+}
+
+strict graph {
+
+no[label = 4];
+ no--no
+no[label = +];
+ no--no
+no[label = 8];
+ no--no
+no[label = *];
+ no--no
+no[label = 9];
+ no--no
+}
+
+strict graph {
+
+no[label = 10];
+ no--no
+no[label = *];
+ no--no
+no[label = 2];
+ no--no
+no[label = +];
+ no--no
+no[label = 4];
+ no--no
+no[label = -];
+ no--no
+no[label = 15];
+ no--no
+no[label = *];
+ no--no
+no[label = 100];
+ no--no
+no[label = +];
+ no--no
+no[label = 400];
+ no--no
+}
+
+strict graph {
+
+no[label = 2];
+ no--no
+no[label = +];
+ no--no
+no[label = 2];
+ no--no
+no[label = +];
+ no--no
+no[label = 2];
+ no--no
+no[label = +];
+ no--no
+no[label = 2];
+ no--no
+no[label = +];
+ no--no
+no[label = 2];
+ no--no
+no[label = +];
+ no--no
+no[label = 2];
+ no--no
+no[label = +];
+ no--no
+no[label = 2];
+ no--no
+no[label = +];
+ no--no
+no[label = 2];
+ no--no
+}
+
+strict graph {
+
+no[label = 40];
+ no--no
+no[label = /];
+ no--no
+no[label = 2];
+ no--no
+no[label = -];
+ no--no
+no[label = 8];
+ no--no
+no[label = +];
+ no--no
+no[label = 2];
+ no--no
+no[label = *];
+ no--no
+no[label = 10];
+ no--no
+no[label = -];
+ no--no
+no[label = 4];
+ no--no
+no[label = +];
+ no--no
+no[label = 4];
+ no--no
+no[label = /];
+ no--no
+no[label = 2];
+ no--no
+}
+
+strict graph {
+
+no[label = 10];
+ no--no
+no[label = -];
+ no--no
+no[label = 5];
+ no--no
+}
+
+strict graph {
+
+no[label = 4];
+ no--no
+no[label = +];
+ no--no
+no[label = 4];
+ no--no
+no[label = *];
+ no--no
+no[label = 4];
+ no--no
+}
+
+strict graph {
+
+no[label = 10];
+ no--no
+no[label = *];
+ no--no
+no[label = 10];
+ no--no
+no[label = +];
+ no--no
+no[label = 10];
+ no--no
+no[label = -];
+ no--no
+no[label = 10];
+ no--no
+no[label = *];
+ no--no
+no[label = 10];
+ no--no
+no[label = +];
+ no--no
+no[label = 10];
+ no--no
+}
+
+strict graph {
+
+no[label = 999];
+ no--no
+no[label = +];
+ no--no
+no[label = 888];
+ no--no
+no[label = +];
+ no--no
+no[label = 777];
+ no--no
+no[label = +];
+ no--no
+no[label = 666];
+ no--no
+no[label = +];
+ no--no
+no[label = 555];
+ no--no
+no[label = +];
+ no--no
+no[label = 444];
+ no--no
+no[label = +];
+ no--no
+no[label = 333];
+ no--no
+no[label = +];
+ no--no
+no[label = 222];
+ no--no
+}
+
+strict graph {
+
+no[label = 80000];
+ no--no
+no[label = /];
+ no--no
+no[label = 4000];
+ no--no
+no[label = -];
+ no--no
+no[label = 5];
+ no--no
+no[label = +];
+ no--no
+no[label = 5];
+ no--no
+no[label = *];
+ no--no
+no[label = 16006];
+ no--no
+no[label = -];
+ no--no
+no[label = 16000];
+ no--no
+no[label = +];
+ no--no
+no[label = 4000];
+ no--no
+no[label = /];
+ no--no
+no[label = 2000];
+ no--no
+}
+
+strict graph {
+
+no[label = 40];
+ no--no
+no[label = /];
+ no--no
+no[label = 2];
+ no--no
+no[label = -];
+ no--no
+no[label = 8];
+ no--no
+no[label = +];
+ no--no
+no[label = 2];
+ no--no
+no[label = *];
+ no--no
+no[label = 10];
+ no--no
+no[label = -];
+ no--no
+no[label = 4];
+ no--no
+no[label = +];
+ no--no
+no[label = 4];
+ no--no
+no[label = /];
+ no--no
+no[label = 2];
+ no--no
+no[label = /];
+ no--no
+no[label = 80000];
+ no--no
+no[label = /];
+ no--no
+no[label = 4000];
+ no--no
+no[label = -];
+ no--no
+no[label = 5];
+ no--no
+no[label = +];
+ no--no
+no[label = 5];
+ no--no
+no[label = *];
+ no--no
+no[label = 16006];
+ no--no
+no[label = -];
+ no--no
+no[label = 16000];
+ no--no
+no[label = +];
+ no--no
+no[label = 4000];
+ no--no
+no[label = /];
+ no--no
+no[label = 2000];
+ no--no
+}
+
+strict graph {
+
+no[label = 40];
+ no--no
+no[label = /];
+ no--no
+no[label = 2];
+ no--no
+no[label = -];
+ no--no
+no[label = 8];
+ no--no
+no[label = +];
+ no--no
+no[label = 2];
+ no--no
+no[label = *];
+ no--no
+no[label = 10];
+ no--no
+no[label = -];
+ no--no
+no[label = 4];
+ no--no
+no[label = +];
+ no--no
+no[label = 4];
+ no--no
+no[label = /];
+ no--no
+no[label = 2];
+ no--no
+no[label = /];
+ no--no
+no[label = 80000];
+ no--no
+no[label = /];
+ no--no
+no[label = 4000];
+ no--no
+no[label = -];
+ no--no
+no[label = 5];
+ no--no
+no[label = +];
+ no--no
+no[label = 5];
+ no--no
+no[label = *];
+ no--no
+no[label = 16006];
+ no--no
+no[label = -];
+ no--no
+no[label = 16000];
+ no--no
+no[label = +];
+ no--no
+no[label = 4000];
+ no--no
+no[label = /];
+ no--no
+no[label = 2000];
+ no--no
+no[label = *];
+ no--no
+no[label = 80000];
+ no--no
+no[label = /];
+ no--no
+no[label = 4000];
+ no--no
+no[label = -];
+ no--no
+no[label = 5];
+ no--no
+no[label = +];
+ no--no
+no[label = 5];
+ no--no
+no[label = *];
+ no--no
+no[label = 16006];
+ no--no
+no[label = -];
+ no--no
+no[label = 16000];
+ no--no
+no[label = +];
+ no--no
+no[label = 4000];
+ no--no
+no[label = /];
+ no--no
+no[label = 2000];
+ no--no
+}
+
+strict graph {
+
+no[label = 40];
+ no--no
+no[label = /];
+ no--no
+no[label = 2];
+ no--no
+no[label = -];
+ no--no
+no[label = 8];
+ no--no
+no[label = +];
+ no--no
+no[label = 2];
+ no--no
+no[label = *];
+ no--no
+no[label = 10];
+ no--no
+no[label = -];
+ no--no
+no[label = 4];
+ no--no
+no[label = +];
+ no--no
+no[label = 4];
+ no--no
+no[label = /];
+ no--no
+no[label = 2];
+ no--no
+no[label = /];
+ no--no
+no[label = 80000];
+ no--no
+no[label = /];
+ no--no
+no[label = 4000];
+ no--no
+no[label = -];
+ no--no
+no[label = 5];
+ no--no
+no[label = +];
+ no--no
+no[label = 5];
+ no--no
+no[label = *];
+ no--no
+no[label = 16006];
+ no--no
+no[label = -];
+ no--no
+no[label = 16000];
+ no--no
+no[label = +];
+ no--no
+no[label = 4000];
+ no--no
+no[label = /];
+ no--no
+no[label = 2000];
+ no--no
+no[label = *];
+ no--no
+no[label = 40];
+ no--no
+no[label = /];
+ no--no
+no[label = 2];
+ no--no
+no[label = -];
+ no--no
+no[label = 8];
+ no--no
+no[label = +];
+ no--no
+no[label = 2];
+ no--no
+no[label = *];
+ no--no
+no[label = 10];
+ no--no
+no[label = -];
+ no--no
+no[label = 4];
+ no--no
+no[label = +];
+ no--no
+no[label = 4];
+ no--no
+no[label = /];
+ no--no
+no[label = 2];
+ no--no
+no[label = /];
+ no--no
+no[label = 80000];
+ no--no
+no[label = /];
+ no--no
+no[label = 4000];
+ no--no
+no[label = -];
+ no--no
+no[label = 5];
+ no--no
+no[label = +];
+ no--no
+no[label = 5];
+ no--no
+no[label = *];
+ no--no
+no[label = 16006];
+ no--no
+no[label = -];
+ no--no
+no[label = 16000];
+ no--no
+no[label = +];
+ no--no
+no[label = 4000];
+ no--no
+no[label = /];
+ no--no
+no[label = 2000];
+ no--no
+}
+
+strict graph {
+
+no[label = 3];
+ no--no
+no[label = /];
+ no--no
+no[label = 2];
+ no--no
+}
+
+strict graph {
+
+no[label = 40];
+ no--no
+no[label = /];
+ no--no
+no[label = 2];
+ no--no
+no[label = -];
+ no--no
+no[label = 8];
+ no--no
+no[label = +];
+ no--no
+no[label = 2];
+ no--no
+no[label = *];
+ no--no
+no[label = 10];
+ no--no
+no[label = -];
+ no--no
+no[label = 4];
+ no--no
+no[label = +];
+ no--no
+no[label = 4];
+ no--no
+no[label = /];
+ no--no
+no[label = 2];
+ no--no
+no[label = /];
+ no--no
+no[label = 80000];
+ no--no
+no[label = /];
+ no--no
+no[label = 4000];
+ no--no
+no[label = -];
+ no--no
+no[label = 5];
+ no--no
+no[label = +];
+ no--no
+no[label = 5];
+ no--no
+no[label = *];
+ no--no
+no[label = 16006];
+ no--no
+no[label = -];
+ no--no
+no[label = 16000];
+ no--no
+no[label = +];
+ no--no
+no[label = 4000];
+ no--no
+no[label = /];
+ no--no
+no[label = 2000];
+ no--no
+no[label = *];
+ no--no
+no[label = 40];
+ no--no
+no[label = /];
+ no--no
+no[label = 2];
+ no--no
+no[label = -];
+ no--no
+no[label = 8];
+ no--no
+no[label = +];
+ no--no
+no[label = 2];
+ no--no
+no[label = *];
+ no--no
+no[label = 10];
+ no--no
+no[label = -];
+ no--no
+no[label = 4];
+ no--no
+no[label = +];
+ no--no
+no[label = 4];
+ no--no
+no[label = /];
+ no--no
+no[label = 2];
+ no--no
+no[label = /];
+ no--no
+no[label = 80000];
+ no--no
+no[label = /];
+ no--no
+no[label = 4000];
+ no--no
+no[label = -];
+ no--no
+no[label = 5];
+ no--no
+no[label = +];
+ no--no
+no[label = 5];
+ no--no
+no[label = *];
+ no--no
+no[label = 16006];
+ no--no
+no[label = -];
+ no--no
+no[label = 16000];
+ no--no
+no[label = +];
+ no--no
+no[label = 4000];
+ no--no
+no[label = /];
+ no--no
+no[label = 2000];
+ no--no
+no[label = *];
+ no--no
+no[label = 40];
+ no--no
+no[label = /];
+ no--no
+no[label = 2];
+ no--no
+no[label = -];
+ no--no
+no[label = 8];
+ no--no
+no[label = +];
+ no--no
+no[label = 2];
+ no--no
+no[label = *];
+ no--no
+no[label = 10];
+ no--no
+no[label = -];
+ no--no
+no[label = 4];
+ no--no
+no[label = +];
+ no--no
+no[label = 4];
+ no--no
+no[label = /];
+ no--no
+no[label = 2];
+ no--no
+no[label = /];
+ no--no
+no[label = 80000];
+ no--no
+no[label = /];
+ no--no
+no[label = 4000];
+ no--no
+no[label = -];
+ no--no
+no[label = 5];
+ no--no
+no[label = +];
+ no--no
+no[label = 5];
+ no--no
+no[label = *];
+ no--no
+no[label = 16006];
+ no--no
+no[label = -];
+ no--no
+no[label = 16000];
+ no--no
+no[label = +];
+ no--no
+no[label = 4000];
+ no--no
+no[label = /];
+ no--no
+no[label = 2000];
+ no--no
+no[label = *];
+ no--no
+no[label = 40];
+ no--no
+no[label = /];
+ no--no
+no[label = 2];
+ no--no
+no[label = -];
+ no--no
+no[label = 8];
+ no--no
+no[label = +];
+ no--no
+no[label = 2];
+ no--no
+no[label = *];
+ no--no
+no[label = 10];
+ no--no
+no[label = -];
+ no--no
+no[label = 4];
+ no--no
+no[label = +];
+ no--no
+no[label = 4];
+ no--no
+no[label = /];
+ no--no
+no[label = 2];
+ no--no
+no[label = /];
+ no--no
+no[label = 80000];
+ no--no
+no[label = /];
+ no--no
+no[label = 4000];
+ no--no
+no[label = -];
+ no--no
+no[label = 5];
+ no--no
+no[label = +];
+ no--no
+no[label = 5];
+ no--no
+no[label = *];
+ no--no
+no[label = 16006];
+ no--no
+no[label = -];
+ no--no
+no[label = 16000];
+ no--no
+no[label = +];
+ no--no
+no[label = 4000];
+ no--no
+no[label = /];
+ no--no
+no[label = 2000];
+ no--no
+}
+
+strict graph {
+
+no[label = 3];
+ no--no
+no[label = *];
+ no--no
+no[label = 9];
+ no--no
+}
+
+strict graph {
+
+no[label = 45];
+ no--no
+no[label = /];
+ no--no
+no[label = 5];
+ no--no
+}
+
+strict graph {
+
+no[label = 3];
+ no--no
+no[label = *];
+ no--no
+no[label = 9];
+ no--no
+no[label = +];
+ no--no
+no[label = 45];
+ no--no
+no[label = /];
+ no--no
+no[label = 5];
+ no--no
+}
+
+strict graph {
+
+no[label = 7];
+ no--no
+no[label = *];
+ no--no
+no[label = 5];
+ no--no
+}
+
+strict graph {
+
+no[label = 3];
+ no--no
+no[label = *];
+ no--no
+no[label = 9];
+ no--no
+no[label = +];
+ no--no
+no[label = 45];
+ no--no
+no[label = /];
+ no--no
+no[label = 5];
+ no--no
+no[label = -];
+ no--no
+no[label = 7];
+ no--no
+no[label = *];
+ no--no
+no[label = 5];
+ no--no
+}
+
+strict graph {
+
+no[label = 40];
+ no--no
+no[label = /];
+ no--no
+no[label = 2];
+ no--no
+no[label = -];
+ no--no
+no[label = 8];
+ no--no
+no[label = +];
+ no--no
+no[label = 2];
+ no--no
+no[label = *];
+ no--no
+no[label = 10];
+ no--no
+no[label = -];
+ no--no
+no[label = 4];
+ no--no
+no[label = +];
+ no--no
+no[label = 4];
+ no--no
+no[label = /];
+ no--no
+no[label = 2];
+ no--no
+no[label = /];
+ no--no
+no[label = 80000];
+ no--no
+no[label = /];
+ no--no
+no[label = 4000];
+ no--no
+no[label = -];
+ no--no
+no[label = 5];
+ no--no
+no[label = +];
+ no--no
+no[label = 5];
+ no--no
+no[label = *];
+ no--no
+no[label = 16006];
+ no--no
+no[label = -];
+ no--no
+no[label = 16000];
+ no--no
+no[label = +];
+ no--no
+no[label = 4000];
+ no--no
+no[label = /];
+ no--no
+no[label = 2000];
+ no--no
+no[label = *];
+ no--no
+no[label = 40];
+ no--no
+no[label = /];
+ no--no
+no[label = 2];
+ no--no
+no[label = -];
+ no--no
+no[label = 8];
+ no--no
+no[label = +];
+ no--no
+no[label = 2];
+ no--no
+no[label = *];
+ no--no
+no[label = 10];
+ no--no
+no[label = -];
+ no--no
+no[label = 4];
+ no--no
+no[label = +];
+ no--no
+no[label = 4];
+ no--no
+no[label = /];
+ no--no
+no[label = 2];
+ no--no
+no[label = /];
+ no--no
+no[label = 80000];
+ no--no
+no[label = /];
+ no--no
+no[label = 4000];
+ no--no
+no[label = -];
+ no--no
+no[label = 5];
+ no--no
+no[label = +];
+ no--no
+no[label = 5];
+ no--no
+no[label = *];
+ no--no
+no[label = 16006];
+ no--no
+no[label = -];
+ no--no
+no[label = 16000];
+ no--no
+no[label = +];
+ no--no
+no[label = 4000];
+ no--no
+no[label = /];
+ no--no
+no[label = 2000];
+ no--no
+no[label = *];
+ no--no
+no[label = 40];
+ no--no
+no[label = /];
+ no--no
+no[label = 2];
+ no--no
+no[label = -];
+ no--no
+no[label = 8];
+ no--no
+no[label = +];
+ no--no
+no[label = 2];
+ no--no
+no[label = *];
+ no--no
+no[label = 10];
+ no--no
+no[label = -];
+ no--no
+no[label = 4];
+ no--no
+no[label = +];
+ no--no
+no[label = 4];
+ no--no
+no[label = /];
+ no--no
+no[label = 2];
+ no--no
+no[label = /];
+ no--no
+no[label = 80000];
+ no--no
+no[label = /];
+ no--no
+no[label = 4000];
+ no--no
+no[label = -];
+ no--no
+no[label = 5];
+ no--no
+no[label = +];
+ no--no
+no[label = 5];
+ no--no
+no[label = *];
+ no--no
+no[label = 16006];
+ no--no
+no[label = -];
+ no--no
+no[label = 16000];
+ no--no
+no[label = +];
+ no--no
+no[label = 4000];
+ no--no
+no[label = /];
+ no--no
+no[label = 2000];
+ no--no
+no[label = *];
+ no--no
+no[label = 40];
+ no--no
+no[label = /];
+ no--no
+no[label = 2];
+ no--no
+no[label = -];
+ no--no
+no[label = 8];
+ no--no
+no[label = +];
+ no--no
+no[label = 2];
+ no--no
+no[label = *];
+ no--no
+no[label = 10];
+ no--no
+no[label = -];
+ no--no
+no[label = 4];
+ no--no
+no[label = +];
+ no--no
+no[label = 4];
+ no--no
+no[label = /];
+ no--no
+no[label = 2];
+ no--no
+no[label = /];
+ no--no
+no[label = 80000];
+ no--no
+no[label = /];
+ no--no
+no[label = 4000];
+ no--no
+no[label = -];
+ no--no
+no[label = 5];
+ no--no
+no[label = +];
+ no--no
+no[label = 5];
+ no--no
+no[label = *];
+ no--no
+no[label = 16006];
+ no--no
+no[label = -];
+ no--no
+no[label = 16000];
+ no--no
+no[label = +];
+ no--no
+no[label = 4000];
+ no--no
+no[label = /];
+ no--no
+no[label = 2000];
+ no--no
+no[label = +];
+ no--no
+no[label = 3];
+ no--no
+no[label = *];
+ no--no
+no[label = 9];
+ no--no
+no[label = +];
+ no--no
+no[label = 45];
+ no--no
+no[label = /];
+ no--no
+no[label = 5];
+ no--no
+no[label = -];
+ no--no
+no[label = 7];
+ no--no
+no[label = *];
+ no--no
+no[label = 5];
+ no--no
+}
+
+strict graph {
+
+no[label = 40];
+ no--no
+no[label = /];
+ no--no
+no[label = 2];
+ no--no
+no[label = -];
+ no--no
+no[label = 8];
+ no--no
+no[label = +];
+ no--no
+no[label = 2];
+ no--no
+no[label = *];
+ no--no
+no[label = 10];
+ no--no
+no[label = -];
+ no--no
+no[label = 4];
+ no--no
+no[label = +];
+ no--no
+no[label = 4];
+ no--no
+no[label = /];
+ no--no
+no[label = 2];
+ no--no
+no[label = /];
+ no--no
+no[label = 80000];
+ no--no
+no[label = /];
+ no--no
+no[label = 4000];
+ no--no
+no[label = -];
+ no--no
+no[label = 5];
+ no--no
+no[label = +];
+ no--no
+no[label = 5];
+ no--no
+no[label = *];
+ no--no
+no[label = 16006];
+ no--no
+no[label = -];
+ no--no
+no[label = 16000];
+ no--no
+no[label = +];
+ no--no
+no[label = 4000];
+ no--no
+no[label = /];
+ no--no
+no[label = 2000];
+ no--no
+no[label = *];
+ no--no
+no[label = 40];
+ no--no
+no[label = /];
+ no--no
+no[label = 2];
+ no--no
+no[label = -];
+ no--no
+no[label = 8];
+ no--no
+no[label = +];
+ no--no
+no[label = 2];
+ no--no
+no[label = *];
+ no--no
+no[label = 10];
+ no--no
+no[label = -];
+ no--no
+no[label = 4];
+ no--no
+no[label = +];
+ no--no
+no[label = 4];
+ no--no
+no[label = /];
+ no--no
+no[label = 2];
+ no--no
+no[label = /];
+ no--no
+no[label = 80000];
+ no--no
+no[label = /];
+ no--no
+no[label = 4000];
+ no--no
+no[label = -];
+ no--no
+no[label = 5];
+ no--no
+no[label = +];
+ no--no
+no[label = 5];
+ no--no
+no[label = *];
+ no--no
+no[label = 16006];
+ no--no
+no[label = -];
+ no--no
+no[label = 16000];
+ no--no
+no[label = +];
+ no--no
+no[label = 4000];
+ no--no
+no[label = /];
+ no--no
+no[label = 2000];
+ no--no
+no[label = *];
+ no--no
+no[label = 40];
+ no--no
+no[label = /];
+ no--no
+no[label = 2];
+ no--no
+no[label = -];
+ no--no
+no[label = 8];
+ no--no
+no[label = +];
+ no--no
+no[label = 2];
+ no--no
+no[label = *];
+ no--no
+no[label = 10];
+ no--no
+no[label = -];
+ no--no
+no[label = 4];
+ no--no
+no[label = +];
+ no--no
+no[label = 4];
+ no--no
+no[label = /];
+ no--no
+no[label = 2];
+ no--no
+no[label = /];
+ no--no
+no[label = 80000];
+ no--no
+no[label = /];
+ no--no
+no[label = 4000];
+ no--no
+no[label = -];
+ no--no
+no[label = 5];
+ no--no
+no[label = +];
+ no--no
+no[label = 5];
+ no--no
+no[label = *];
+ no--no
+no[label = 16006];
+ no--no
+no[label = -];
+ no--no
+no[label = 16000];
+ no--no
+no[label = +];
+ no--no
+no[label = 4000];
+ no--no
+no[label = /];
+ no--no
+no[label = 2000];
+ no--no
+no[label = *];
+ no--no
+no[label = 40];
+ no--no
+no[label = /];
+ no--no
+no[label = 2];
+ no--no
+no[label = -];
+ no--no
+no[label = 8];
+ no--no
+no[label = +];
+ no--no
+no[label = 2];
+ no--no
+no[label = *];
+ no--no
+no[label = 10];
+ no--no
+no[label = -];
+ no--no
+no[label = 4];
+ no--no
+no[label = +];
+ no--no
+no[label = 4];
+ no--no
+no[label = /];
+ no--no
+no[label = 2];
+ no--no
+no[label = /];
+ no--no
+no[label = 80000];
+ no--no
+no[label = /];
+ no--no
+no[label = 4000];
+ no--no
+no[label = -];
+ no--no
+no[label = 5];
+ no--no
+no[label = +];
+ no--no
+no[label = 5];
+ no--no
+no[label = *];
+ no--no
+no[label = 16006];
+ no--no
+no[label = -];
+ no--no
+no[label = 16000];
+ no--no
+no[label = +];
+ no--no
+no[label = 4000];
+ no--no
+no[label = /];
+ no--no
+no[label = 2000];
+ no--no
+no[label = /];
+ no--no
+no[label = 40];
+ no--no
+no[label = /];
+ no--no
+no[label = 2];
+ no--no
+no[label = -];
+ no--no
+no[label = 8];
+ no--no
+no[label = +];
+ no--no
+no[label = 2];
+ no--no
+no[label = *];
+ no--no
+no[label = 10];
+ no--no
+no[label = -];
+ no--no
+no[label = 4];
+ no--no
+no[label = +];
+ no--no
+no[label = 4];
+ no--no
+no[label = /];
+ no--no
+no[label = 2];
+ no--no
+no[label = /];
+ no--no
+no[label = 80000];
+ no--no
+no[label = /];
+ no--no
+no[label = 4000];
+ no--no
+no[label = -];
+ no--no
+no[label = 5];
+ no--no
+no[label = +];
+ no--no
+no[label = 5];
+ no--no
+no[label = *];
+ no--no
+no[label = 16006];
+ no--no
+no[label = -];
+ no--no
+no[label = 16000];
+ no--no
+no[label = +];
+ no--no
+no[label = 4000];
+ no--no
+no[label = /];
+ no--no
+no[label = 2000];
+ no--no
+no[label = *];
+ no--no
+no[label = 40];
+ no--no
+no[label = /];
+ no--no
+no[label = 2];
+ no--no
+no[label = -];
+ no--no
+no[label = 8];
+ no--no
+no[label = +];
+ no--no
+no[label = 2];
+ no--no
+no[label = *];
+ no--no
+no[label = 10];
+ no--no
+no[label = -];
+ no--no
+no[label = 4];
+ no--no
+no[label = +];
+ no--no
+no[label = 4];
+ no--no
+no[label = /];
+ no--no
+no[label = 2];
+ no--no
+no[label = /];
+ no--no
+no[label = 80000];
+ no--no
+no[label = /];
+ no--no
+no[label = 4000];
+ no--no
+no[label = -];
+ no--no
+no[label = 5];
+ no--no
+no[label = +];
+ no--no
+no[label = 5];
+ no--no
+no[label = *];
+ no--no
+no[label = 16006];
+ no--no
+no[label = -];
+ no--no
+no[label = 16000];
+ no--no
+no[label = +];
+ no--no
+no[label = 4000];
+ no--no
+no[label = /];
+ no--no
+no[label = 2000];
+ no--no
+no[label = *];
+ no--no
+no[label = 40];
+ no--no
+no[label = /];
+ no--no
+no[label = 2];
+ no--no
+no[label = -];
+ no--no
+no[label = 8];
+ no--no
+no[label = +];
+ no--no
+no[label = 2];
+ no--no
+no[label = *];
+ no--no
+no[label = 10];
+ no--no
+no[label = -];
+ no--no
+no[label = 4];
+ no--no
+no[label = +];
+ no--no
+no[label = 4];
+ no--no
+no[label = /];
+ no--no
+no[label = 2];
+ no--no
+no[label = /];
+ no--no
+no[label = 80000];
+ no--no
+no[label = /];
+ no--no
+no[label = 4000];
+ no--no
+no[label = -];
+ no--no
+no[label = 5];
+ no--no
+no[label = +];
+ no--no
+no[label = 5];
+ no--no
+no[label = *];
+ no--no
+no[label = 16006];
+ no--no
+no[label = -];
+ no--no
+no[label = 16000];
+ no--no
+no[label = +];
+ no--no
+no[label = 4000];
+ no--no
+no[label = /];
+ no--no
+no[label = 2000];
+ no--no
+no[label = *];
+ no--no
+no[label = 40];
+ no--no
+no[label = /];
+ no--no
+no[label = 2];
+ no--no
+no[label = -];
+ no--no
+no[label = 8];
+ no--no
+no[label = +];
+ no--no
+no[label = 2];
+ no--no
+no[label = *];
+ no--no
+no[label = 10];
+ no--no
+no[label = -];
+ no--no
+no[label = 4];
+ no--no
+no[label = +];
+ no--no
+no[label = 4];
+ no--no
+no[label = /];
+ no--no
+no[label = 2];
+ no--no
+no[label = /];
+ no--no
+no[label = 80000];
+ no--no
+no[label = /];
+ no--no
+no[label = 4000];
+ no--no
+no[label = -];
+ no--no
+no[label = 5];
+ no--no
+no[label = +];
+ no--no
+no[label = 5];
+ no--no
+no[label = *];
+ no--no
+no[label = 16006];
+ no--no
+no[label = -];
+ no--no
+no[label = 16000];
+ no--no
+no[label = +];
+ no--no
+no[label = 4000];
+ no--no
+no[label = /];
+ no--no
+no[label = 2000];
+ no--no
+no[label = +];
+ no--no
+no[label = 3];
+ no--no
+no[label = *];
+ no--no
+no[label = 9];
+ no--no
+no[label = +];
+ no--no
+no[label = 45];
+ no--no
+no[label = /];
+ no--no
+no[label = 5];
+ no--no
+no[label = -];
+ no--no
+no[label = 7];
+ no--no
+no[label = *];
+ no--no
+no[label = 5];
+ no--no
+}
+
+strict graph {
+
+no[label = 40];
+ no--no
+no[label = /];
+ no--no
+no[label = 2];
+ no--no
+no[label = -];
+ no--no
+no[label = 8];
+ no--no
+no[label = +];
+ no--no
+no[label = 2];
+ no--no
+no[label = *];
+ no--no
+no[label = 10];
+ no--no
+no[label = -];
+ no--no
+no[label = 4];
+ no--no
+no[label = +];
+ no--no
+no[label = 4];
+ no--no
+no[label = /];
+ no--no
+no[label = 2];
+ no--no
+no[label = /];
+ no--no
+no[label = 80000];
+ no--no
+no[label = /];
+ no--no
+no[label = 4000];
+ no--no
+no[label = -];
+ no--no
+no[label = 5];
+ no--no
+no[label = +];
+ no--no
+no[label = 5];
+ no--no
+no[label = *];
+ no--no
+no[label = 16006];
+ no--no
+no[label = -];
+ no--no
+no[label = 16000];
+ no--no
+no[label = +];
+ no--no
+no[label = 4000];
+ no--no
+no[label = /];
+ no--no
+no[label = 2000];
+ no--no
+no[label = *];
+ no--no
+no[label = 40];
+ no--no
+no[label = /];
+ no--no
+no[label = 2];
+ no--no
+no[label = -];
+ no--no
+no[label = 8];
+ no--no
+no[label = +];
+ no--no
+no[label = 2];
+ no--no
+no[label = *];
+ no--no
+no[label = 10];
+ no--no
+no[label = -];
+ no--no
+no[label = 4];
+ no--no
+no[label = +];
+ no--no
+no[label = 4];
+ no--no
+no[label = /];
+ no--no
+no[label = 2];
+ no--no
+no[label = /];
+ no--no
+no[label = 80000];
+ no--no
+no[label = /];
+ no--no
+no[label = 4000];
+ no--no
+no[label = -];
+ no--no
+no[label = 5];
+ no--no
+no[label = +];
+ no--no
+no[label = 5];
+ no--no
+no[label = *];
+ no--no
+no[label = 16006];
+ no--no
+no[label = -];
+ no--no
+no[label = 16000];
+ no--no
+no[label = +];
+ no--no
+no[label = 4000];
+ no--no
+no[label = /];
+ no--no
+no[label = 2000];
+ no--no
+no[label = *];
+ no--no
+no[label = 40];
+ no--no
+no[label = /];
+ no--no
+no[label = 2];
+ no--no
+no[label = -];
+ no--no
+no[label = 8];
+ no--no
+no[label = +];
+ no--no
+no[label = 2];
+ no--no
+no[label = *];
+ no--no
+no[label = 10];
+ no--no
+no[label = -];
+ no--no
+no[label = 4];
+ no--no
+no[label = +];
+ no--no
+no[label = 4];
+ no--no
+no[label = /];
+ no--no
+no[label = 2];
+ no--no
+no[label = /];
+ no--no
+no[label = 80000];
+ no--no
+no[label = /];
+ no--no
+no[label = 4000];
+ no--no
+no[label = -];
+ no--no
+no[label = 5];
+ no--no
+no[label = +];
+ no--no
+no[label = 5];
+ no--no
+no[label = *];
+ no--no
+no[label = 16006];
+ no--no
+no[label = -];
+ no--no
+no[label = 16000];
+ no--no
+no[label = +];
+ no--no
+no[label = 4000];
+ no--no
+no[label = /];
+ no--no
+no[label = 2000];
+ no--no
+no[label = *];
+ no--no
+no[label = 40];
+ no--no
+no[label = /];
+ no--no
+no[label = 2];
+ no--no
+no[label = -];
+ no--no
+no[label = 8];
+ no--no
+no[label = +];
+ no--no
+no[label = 2];
+ no--no
+no[label = *];
+ no--no
+no[label = 10];
+ no--no
+no[label = -];
+ no--no
+no[label = 4];
+ no--no
+no[label = +];
+ no--no
+no[label = 4];
+ no--no
+no[label = /];
+ no--no
+no[label = 2];
+ no--no
+no[label = /];
+ no--no
+no[label = 80000];
+ no--no
+no[label = /];
+ no--no
+no[label = 4000];
+ no--no
+no[label = -];
+ no--no
+no[label = 5];
+ no--no
+no[label = +];
+ no--no
+no[label = 5];
+ no--no
+no[label = *];
+ no--no
+no[label = 16006];
+ no--no
+no[label = -];
+ no--no
+no[label = 16000];
+ no--no
+no[label = +];
+ no--no
+no[label = 4000];
+ no--no
+no[label = /];
+ no--no
+no[label = 2000];
+ no--no
+no[label = /];
+ no--no
+no[label = 40];
+ no--no
+no[label = /];
+ no--no
+no[label = 2];
+ no--no
+no[label = -];
+ no--no
+no[label = 8];
+ no--no
+no[label = +];
+ no--no
+no[label = 2];
+ no--no
+no[label = *];
+ no--no
+no[label = 10];
+ no--no
+no[label = -];
+ no--no
+no[label = 4];
+ no--no
+no[label = +];
+ no--no
+no[label = 4];
+ no--no
+no[label = /];
+ no--no
+no[label = 2];
+ no--no
+no[label = /];
+ no--no
+no[label = 80000];
+ no--no
+no[label = /];
+ no--no
+no[label = 4000];
+ no--no
+no[label = -];
+ no--no
+no[label = 5];
+ no--no
+no[label = +];
+ no--no
+no[label = 5];
+ no--no
+no[label = *];
+ no--no
+no[label = 16006];
+ no--no
+no[label = -];
+ no--no
+no[label = 16000];
+ no--no
+no[label = +];
+ no--no
+no[label = 4000];
+ no--no
+no[label = /];
+ no--no
+no[label = 2000];
+ no--no
+no[label = *];
+ no--no
+no[label = 40];
+ no--no
+no[label = /];
+ no--no
+no[label = 2];
+ no--no
+no[label = -];
+ no--no
+no[label = 8];
+ no--no
+no[label = +];
+ no--no
+no[label = 2];
+ no--no
+no[label = *];
+ no--no
+no[label = 10];
+ no--no
+no[label = -];
+ no--no
+no[label = 4];
+ no--no
+no[label = +];
+ no--no
+no[label = 4];
+ no--no
+no[label = /];
+ no--no
+no[label = 2];
+ no--no
+no[label = /];
+ no--no
+no[label = 80000];
+ no--no
+no[label = /];
+ no--no
+no[label = 4000];
+ no--no
+no[label = -];
+ no--no
+no[label = 5];
+ no--no
+no[label = +];
+ no--no
+no[label = 5];
+ no--no
+no[label = *];
+ no--no
+no[label = 16006];
+ no--no
+no[label = -];
+ no--no
+no[label = 16000];
+ no--no
+no[label = +];
+ no--no
+no[label = 4000];
+ no--no
+no[label = /];
+ no--no
+no[label = 2000];
+ no--no
+no[label = *];
+ no--no
+no[label = 40];
+ no--no
+no[label = /];
+ no--no
+no[label = 2];
+ no--no
+no[label = -];
+ no--no
+no[label = 8];
+ no--no
+no[label = +];
+ no--no
+no[label = 2];
+ no--no
+no[label = *];
+ no--no
+no[label = 10];
+ no--no
+no[label = -];
+ no--no
+no[label = 4];
+ no--no
+no[label = +];
+ no--no
+no[label = 4];
+ no--no
+no[label = /];
+ no--no
+no[label = 2];
+ no--no
+no[label = /];
+ no--no
+no[label = 80000];
+ no--no
+no[label = /];
+ no--no
+no[label = 4000];
+ no--no
+no[label = -];
+ no--no
+no[label = 5];
+ no--no
+no[label = +];
+ no--no
+no[label = 5];
+ no--no
+no[label = *];
+ no--no
+no[label = 16006];
+ no--no
+no[label = -];
+ no--no
+no[label = 16000];
+ no--no
+no[label = +];
+ no--no
+no[label = 4000];
+ no--no
+no[label = /];
+ no--no
+no[label = 2000];
+ no--no
+no[label = *];
+ no--no
+no[label = 40];
+ no--no
+no[label = /];
+ no--no
+no[label = 2];
+ no--no
+no[label = -];
+ no--no
+no[label = 8];
+ no--no
+no[label = +];
+ no--no
+no[label = 2];
+ no--no
+no[label = *];
+ no--no
+no[label = 10];
+ no--no
+no[label = -];
+ no--no
+no[label = 4];
+ no--no
+no[label = +];
+ no--no
+no[label = 4];
+ no--no
+no[label = /];
+ no--no
+no[label = 2];
+ no--no
+no[label = /];
+ no--no
+no[label = 80000];
+ no--no
+no[label = /];
+ no--no
+no[label = 4000];
+ no--no
+no[label = -];
+ no--no
+no[label = 5];
+ no--no
+no[label = +];
+ no--no
+no[label = 5];
+ no--no
+no[label = *];
+ no--no
+no[label = 16006];
+ no--no
+no[label = -];
+ no--no
+no[label = 16000];
+ no--no
+no[label = +];
+ no--no
+no[label = 4000];
+ no--no
+no[label = /];
+ no--no
+no[label = 2000];
+ no--no
+no[label = +];
+ no--no
+no[label = 3];
+ no--no
+no[label = *];
+ no--no
+no[label = 9];
+ no--no
+no[label = +];
+ no--no
+no[label = 45];
+ no--no
+no[label = /];
+ no--no
+no[label = 5];
+ no--no
+no[label = -];
+ no--no
+no[label = 7];
+ no--no
+no[label = *];
+ no--no
+no[label = 5];
+ no--no
+no[label = *];
+ no--no
+no[label = 40];
+ no--no
+no[label = /];
+ no--no
+no[label = 2];
+ no--no
+no[label = -];
+ no--no
+no[label = 8];
+ no--no
+no[label = +];
+ no--no
+no[label = 2];
+ no--no
+no[label = *];
+ no--no
+no[label = 10];
+ no--no
+no[label = -];
+ no--no
+no[label = 4];
+ no--no
+no[label = +];
+ no--no
+no[label = 4];
+ no--no
+no[label = /];
+ no--no
+no[label = 2];
+ no--no
+no[label = /];
+ no--no
+no[label = 80000];
+ no--no
+no[label = /];
+ no--no
+no[label = 4000];
+ no--no
+no[label = -];
+ no--no
+no[label = 5];
+ no--no
+no[label = +];
+ no--no
+no[label = 5];
+ no--no
+no[label = *];
+ no--no
+no[label = 16006];
+ no--no
+no[label = -];
+ no--no
+no[label = 16000];
+ no--no
+no[label = +];
+ no--no
+no[label = 4000];
+ no--no
+no[label = /];
+ no--no
+no[label = 2000];
+ no--no
+no[label = *];
+ no--no
+no[label = 40];
+ no--no
+no[label = /];
+ no--no
+no[label = 2];
+ no--no
+no[label = -];
+ no--no
+no[label = 8];
+ no--no
+no[label = +];
+ no--no
+no[label = 2];
+ no--no
+no[label = *];
+ no--no
+no[label = 10];
+ no--no
+no[label = -];
+ no--no
+no[label = 4];
+ no--no
+no[label = +];
+ no--no
+no[label = 4];
+ no--no
+no[label = /];
+ no--no
+no[label = 2];
+ no--no
+no[label = /];
+ no--no
+no[label = 80000];
+ no--no
+no[label = /];
+ no--no
+no[label = 4000];
+ no--no
+no[label = -];
+ no--no
+no[label = 5];
+ no--no
+no[label = +];
+ no--no
+no[label = 5];
+ no--no
+no[label = *];
+ no--no
+no[label = 16006];
+ no--no
+no[label = -];
+ no--no
+no[label = 16000];
+ no--no
+no[label = +];
+ no--no
+no[label = 4000];
+ no--no
+no[label = /];
+ no--no
+no[label = 2000];
+ no--no
+no[label = *];
+ no--no
+no[label = 40];
+ no--no
+no[label = /];
+ no--no
+no[label = 2];
+ no--no
+no[label = -];
+ no--no
+no[label = 8];
+ no--no
+no[label = +];
+ no--no
+no[label = 2];
+ no--no
+no[label = *];
+ no--no
+no[label = 10];
+ no--no
+no[label = -];
+ no--no
+no[label = 4];
+ no--no
+no[label = +];
+ no--no
+no[label = 4];
+ no--no
+no[label = /];
+ no--no
+no[label = 2];
+ no--no
+no[label = /];
+ no--no
+no[label = 80000];
+ no--no
+no[label = /];
+ no--no
+no[label = 4000];
+ no--no
+no[label = -];
+ no--no
+no[label = 5];
+ no--no
+no[label = +];
+ no--no
+no[label = 5];
+ no--no
+no[label = *];
+ no--no
+no[label = 16006];
+ no--no
+no[label = -];
+ no--no
+no[label = 16000];
+ no--no
+no[label = +];
+ no--no
+no[label = 4000];
+ no--no
+no[label = /];
+ no--no
+no[label = 2000];
+ no--no
+no[label = *];
+ no--no
+no[label = 40];
+ no--no
+no[label = /];
+ no--no
+no[label = 2];
+ no--no
+no[label = -];
+ no--no
+no[label = 8];
+ no--no
+no[label = +];
+ no--no
+no[label = 2];
+ no--no
+no[label = *];
+ no--no
+no[label = 10];
+ no--no
+no[label = -];
+ no--no
+no[label = 4];
+ no--no
+no[label = +];
+ no--no
+no[label = 4];
+ no--no
+no[label = /];
+ no--no
+no[label = 2];
+ no--no
+no[label = /];
+ no--no
+no[label = 80000];
+ no--no
+no[label = /];
+ no--no
+no[label = 4000];
+ no--no
+no[label = -];
+ no--no
+no[label = 5];
+ no--no
+no[label = +];
+ no--no
+no[label = 5];
+ no--no
+no[label = *];
+ no--no
+no[label = 16006];
+ no--no
+no[label = -];
+ no--no
+no[label = 16000];
+ no--no
+no[label = +];
+ no--no
+no[label = 4000];
+ no--no
+no[label = /];
+ no--no
+no[label = 2000];
+ no--no
+no[label = +];
+ no--no
+no[label = 3];
+ no--no
+no[label = *];
+ no--no
+no[label = 9];
+ no--no
+no[label = +];
+ no--no
+no[label = 45];
+ no--no
+no[label = /];
+ no--no
+no[label = 5];
+ no--no
+no[label = -];
+ no--no
+no[label = 7];
+ no--no
+no[label = *];
+ no--no
+no[label = 5];
+ no--no
+}
+
+strict graph {
+
+no[label = 9];
+ no--no
+no[label = /];
+ no--no
+no[label = 3];
+ no--no
+}
+
+strict graph {
+
+no[label = 27];
+ no--no
+no[label = /];
+ no--no
+no[label = 9];
+ no--no
+no[label = /];
+ no--no
+no[label = 3];
+ no--no
+}
+
+strict graph {
+
+no[label = 27];
+ no--no
+no[label = /];
+ no--no
+no[label = 9];
+ no--no
+no[label = /];
+ no--no
+no[label = 3];
+ no--no
+no[label = /];
+ no--no
+no[label = 9];
+ no--no
+no[label = /];
+ no--no
+no[label = 3];
+ no--no
+}
+
+strict graph {
+
+no[label = 27];
+ no--no
+no[label = /];
+ no--no
+no[label = 9];
+ no--no
+no[label = /];
+ no--no
+no[label = 3];
+ no--no
+no[label = /];
+ no--no
+no[label = 9];
+ no--no
+no[label = /];
+ no--no
+no[label = 3];
+ no--no
+no[label = *];
+ no--no
+no[label = 9];
+ no--no
+no[label = /];
+ no--no
+no[label = 3];
+ no--no
+}
+
+strict graph {
+
+no[label = 27];
+ no--no
+no[label = /];
+ no--no
+no[label = 9];
+ no--no
+no[label = /];
+ no--no
+no[label = 3];
+ no--no
+no[label = /];
+ no--no
+no[label = 27];
+ no--no
+no[label = /];
+ no--no
+no[label = 9];
+ no--no
+no[label = /];
+ no--no
+no[label = 3];
+ no--no
+no[label = /];
+ no--no
+no[label = 9];
+ no--no
+no[label = /];
+ no--no
+no[label = 3];
+ no--no
+no[label = *];
+ no--no
+no[label = 9];
+ no--no
+no[label = /];
+ no--no
+no[label = 3];
+ no--no
+}
+
+strict graph {
+
+no[label = 7];
+ no--no
+no[label = /];
+ no--no
+no[label = 2];
+ no--no
+}
+
+strict graph {
+
+no[label = 6];
+ no--no
+no[label = /];
+ no--no
+no[label = 3];
+ no--no
+}
+
+strict graph {
+
+no[label = 7];
+ no--no
+no[label = /];
+ no--no
+no[label = 2];
+ no--no
+no[label = *];
+ no--no
+no[label = 6];
+ no--no
+no[label = /];
+ no--no
+no[label = 3];
+ no--no
+}
+
+strict graph {
+
+no[label = 7];
+ no--no
+no[label = /];
+ no--no
+no[label = 2];
+ no--no
+no[label = *];
+ no--no
+no[label = 6];
+ no--no
+no[label = /];
+ no--no
+no[label = 3];
+ no--no
+no[label = *];
+ no--no
+no[label = 9];
+ no--no
+no[label = *];
+ no--no
+no[label = 3];
+ no--no
+}
+
+strict graph {
+
+no[label = 7];
+ no--no
+no[label = /];
+ no--no
+no[label = 2];
+ no--no
+no[label = *];
+ no--no
+no[label = 6];
+ no--no
+no[label = /];
+ no--no
+no[label = 3];
+ no--no
+no[label = *];
+ no--no
+no[label = 9];
+ no--no
+no[label = *];
+ no--no
+no[label = 3];
+ no--no
+no[label = /];
+ no--no
+no[label = 6];
+ no--no
+no[label = /];
+ no--no
+no[label = 3];
+ no--no
+}
+
+strict graph {
+
+no[label = 7];
+ no--no
+no[label = /];
+ no--no
+no[label = 2];
+ no--no
+no[label = *];
+ no--no
+no[label = 6];
+ no--no
+no[label = /];
+ no--no
+no[label = 3];
+ no--no
+no[label = *];
+ no--no
+no[label = 9];
+ no--no
+no[label = *];
+ no--no
+no[label = 3];
+ no--no
+no[label = /];
+ no--no
+no[label = 6];
+ no--no
+no[label = /];
+ no--no
+no[label = 3];
+ no--no
+no[label = +];
+ no--no
+no[label = 7];
+ no--no
+no[label = /];
+ no--no
+no[label = 2];
+ no--no
+no[label = *];
+ no--no
+no[label = 6];
+ no--no
+no[label = /];
+ no--no
+no[label = 3];
+ no--no
+no[label = *];
+ no--no
+no[label = 9];
+ no--no
+no[label = *];
+ no--no
+no[label = 3];
+ no--no
+}
+
+strict graph {
+
+no[label = 7];
+ no--no
+no[label = /];
+ no--no
+no[label = 3];
+ no--no
+}
+
+strict graph {
+
+no[label = 67];
+ no--no
+no[label = /];
+ no--no
+no[label = 89];
+ no--no
+}
+
+strict graph {
+
+no[label = 67];
+ no--no
+no[label = /];
+ no--no
+no[label = 89];
+ no--no
+no[label = *];
+ no--no
+no[label = 100];
+ no--no
+}
+
+strict graph {
+
+no[label = 67];
+ no--no
+no[label = /];
+ no--no
+no[label = 89];
+ no--no
+no[label = *];
+ no--no
+no[label = 100];
+ no--no
+no[label = *];
+ no--no
+no[label = 1000];
+ no--no
+}
+
+strict graph {
+
+no[label = 67];
+ no--no
+no[label = /];
+ no--no
+no[label = 89];
+ no--no
+no[label = *];
+ no--no
+no[label = 100];
+ no--no
+no[label = *];
+ no--no
+no[label = 1000];
+ no--no
+no[label = *];
+ no--no
+no[label = 10000];
+ no--no
+}
+
+strict graph {
+
+no[label = 80];
+ no--no
+no[label = /];
+ no--no
+no[label = 5];
+ no--no
+}
+
+strict graph {
+
+no[label = 80];
+ no--no
+no[label = /];
+ no--no
+no[label = 5];
+ no--no
+no[label = +];
+ no--no
+no[label = 5];
+ no--no
+no[label = /];
+ no--no
+no[label = 6];
+ no--no
+}
+
+strict graph {
+
+no[label = 90];
+ no--no
+no[label = *];
+ no--no
+no[label = 80];
+ no--no
+no[label = /];
+ no--no
+no[label = 5];
+ no--no
+no[label = +];
+ no--no
+no[label = 5];
+ no--no
+no[label = /];
+ no--no
+no[label = 6];
+ no--no
+}
+
+strict graph {
+
+no[label = 40];
+ no--no
+no[label = /];
+ no--no
+no[label = 2];
+ no--no
+no[label = -];
+ no--no
+no[label = 8];
+ no--no
+no[label = +];
+ no--no
+no[label = 2];
+ no--no
+no[label = *];
+ no--no
+no[label = 10];
+ no--no
+no[label = -];
+ no--no
+no[label = 4];
+ no--no
+no[label = +];
+ no--no
+no[label = 4];
+ no--no
+no[label = /];
+ no--no
+no[label = 2];
+ no--no
+no[label = /];
+ no--no
+no[label = 80000];
+ no--no
+no[label = /];
+ no--no
+no[label = 4000];
+ no--no
+no[label = -];
+ no--no
+no[label = 5];
+ no--no
+no[label = +];
+ no--no
+no[label = 5];
+ no--no
+no[label = *];
+ no--no
+no[label = 16006];
+ no--no
+no[label = -];
+ no--no
+no[label = 16000];
+ no--no
+no[label = +];
+ no--no
+no[label = 4000];
+ no--no
+no[label = /];
+ no--no
+no[label = 2000];
+ no--no
+no[label = *];
+ no--no
+no[label = 40];
+ no--no
+no[label = /];
+ no--no
+no[label = 2];
+ no--no
+no[label = -];
+ no--no
+no[label = 8];
+ no--no
+no[label = +];
+ no--no
+no[label = 2];
+ no--no
+no[label = *];
+ no--no
+no[label = 10];
+ no--no
+no[label = -];
+ no--no
+no[label = 4];
+ no--no
+no[label = +];
+ no--no
+no[label = 4];
+ no--no
+no[label = /];
+ no--no
+no[label = 2];
+ no--no
+no[label = /];
+ no--no
+no[label = 80000];
+ no--no
+no[label = /];
+ no--no
+no[label = 4000];
+ no--no
+no[label = -];
+ no--no
+no[label = 5];
+ no--no
+no[label = +];
+ no--no
+no[label = 5];
+ no--no
+no[label = *];
+ no--no
+no[label = 16006];
+ no--no
+no[label = -];
+ no--no
+no[label = 16000];
+ no--no
+no[label = +];
+ no--no
+no[label = 4000];
+ no--no
+no[label = /];
+ no--no
+no[label = 2000];
+ no--no
+no[label = *];
+ no--no
+no[label = 40];
+ no--no
+no[label = /];
+ no--no
+no[label = 2];
+ no--no
+no[label = -];
+ no--no
+no[label = 8];
+ no--no
+no[label = +];
+ no--no
+no[label = 2];
+ no--no
+no[label = *];
+ no--no
+no[label = 10];
+ no--no
+no[label = -];
+ no--no
+no[label = 4];
+ no--no
+no[label = +];
+ no--no
+no[label = 4];
+ no--no
+no[label = /];
+ no--no
+no[label = 2];
+ no--no
+no[label = /];
+ no--no
+no[label = 80000];
+ no--no
+no[label = /];
+ no--no
+no[label = 4000];
+ no--no
+no[label = -];
+ no--no
+no[label = 5];
+ no--no
+no[label = +];
+ no--no
+no[label = 5];
+ no--no
+no[label = *];
+ no--no
+no[label = 16006];
+ no--no
+no[label = -];
+ no--no
+no[label = 16000];
+ no--no
+no[label = +];
+ no--no
+no[label = 4000];
+ no--no
+no[label = /];
+ no--no
+no[label = 2000];
+ no--no
+no[label = *];
+ no--no
+no[label = 40];
+ no--no
+no[label = /];
+ no--no
+no[label = 2];
+ no--no
+no[label = -];
+ no--no
+no[label = 8];
+ no--no
+no[label = +];
+ no--no
+no[label = 2];
+ no--no
+no[label = *];
+ no--no
+no[label = 10];
+ no--no
+no[label = -];
+ no--no
+no[label = 4];
+ no--no
+no[label = +];
+ no--no
+no[label = 4];
+ no--no
+no[label = /];
+ no--no
+no[label = 2];
+ no--no
+no[label = /];
+ no--no
+no[label = 80000];
+ no--no
+no[label = /];
+ no--no
+no[label = 4000];
+ no--no
+no[label = -];
+ no--no
+no[label = 5];
+ no--no
+no[label = +];
+ no--no
+no[label = 5];
+ no--no
+no[label = *];
+ no--no
+no[label = 16006];
+ no--no
+no[label = -];
+ no--no
+no[label = 16000];
+ no--no
+no[label = +];
+ no--no
+no[label = 4000];
+ no--no
+no[label = /];
+ no--no
+no[label = 2000];
+ no--no
+no[label = /];
+ no--no
+no[label = 40];
+ no--no
+no[label = /];
+ no--no
+no[label = 2];
+ no--no
+no[label = -];
+ no--no
+no[label = 8];
+ no--no
+no[label = +];
+ no--no
+no[label = 2];
+ no--no
+no[label = *];
+ no--no
+no[label = 10];
+ no--no
+no[label = -];
+ no--no
+no[label = 4];
+ no--no
+no[label = +];
+ no--no
+no[label = 4];
+ no--no
+no[label = /];
+ no--no
+no[label = 2];
+ no--no
+no[label = /];
+ no--no
+no[label = 80000];
+ no--no
+no[label = /];
+ no--no
+no[label = 4000];
+ no--no
+no[label = -];
+ no--no
+no[label = 5];
+ no--no
+no[label = +];
+ no--no
+no[label = 5];
+ no--no
+no[label = *];
+ no--no
+no[label = 16006];
+ no--no
+no[label = -];
+ no--no
+no[label = 16000];
+ no--no
+no[label = +];
+ no--no
+no[label = 4000];
+ no--no
+no[label = /];
+ no--no
+no[label = 2000];
+ no--no
+no[label = *];
+ no--no
+no[label = 40];
+ no--no
+no[label = /];
+ no--no
+no[label = 2];
+ no--no
+no[label = -];
+ no--no
+no[label = 8];
+ no--no
+no[label = +];
+ no--no
+no[label = 2];
+ no--no
+no[label = *];
+ no--no
+no[label = 10];
+ no--no
+no[label = -];
+ no--no
+no[label = 4];
+ no--no
+no[label = +];
+ no--no
+no[label = 4];
+ no--no
+no[label = /];
+ no--no
+no[label = 2];
+ no--no
+no[label = /];
+ no--no
+no[label = 80000];
+ no--no
+no[label = /];
+ no--no
+no[label = 4000];
+ no--no
+no[label = -];
+ no--no
+no[label = 5];
+ no--no
+no[label = +];
+ no--no
+no[label = 5];
+ no--no
+no[label = *];
+ no--no
+no[label = 16006];
+ no--no
+no[label = -];
+ no--no
+no[label = 16000];
+ no--no
+no[label = +];
+ no--no
+no[label = 4000];
+ no--no
+no[label = /];
+ no--no
+no[label = 2000];
+ no--no
+no[label = *];
+ no--no
+no[label = 40];
+ no--no
+no[label = /];
+ no--no
+no[label = 2];
+ no--no
+no[label = -];
+ no--no
+no[label = 8];
+ no--no
+no[label = +];
+ no--no
+no[label = 2];
+ no--no
+no[label = *];
+ no--no
+no[label = 10];
+ no--no
+no[label = -];
+ no--no
+no[label = 4];
+ no--no
+no[label = +];
+ no--no
+no[label = 4];
+ no--no
+no[label = /];
+ no--no
+no[label = 2];
+ no--no
+no[label = /];
+ no--no
+no[label = 80000];
+ no--no
+no[label = /];
+ no--no
+no[label = 4000];
+ no--no
+no[label = -];
+ no--no
+no[label = 5];
+ no--no
+no[label = +];
+ no--no
+no[label = 5];
+ no--no
+no[label = *];
+ no--no
+no[label = 16006];
+ no--no
+no[label = -];
+ no--no
+no[label = 16000];
+ no--no
+no[label = +];
+ no--no
+no[label = 4000];
+ no--no
+no[label = /];
+ no--no
+no[label = 2000];
+ no--no
+no[label = *];
+ no--no
+no[label = 40];
+ no--no
+no[label = /];
+ no--no
+no[label = 2];
+ no--no
+no[label = -];
+ no--no
+no[label = 8];
+ no--no
+no[label = +];
+ no--no
+no[label = 2];
+ no--no
+no[label = *];
+ no--no
+no[label = 10];
+ no--no
+no[label = -];
+ no--no
+no[label = 4];
+ no--no
+no[label = +];
+ no--no
+no[label = 4];
+ no--no
+no[label = /];
+ no--no
+no[label = 2];
+ no--no
+no[label = /];
+ no--no
+no[label = 80000];
+ no--no
+no[label = /];
+ no--no
+no[label = 4000];
+ no--no
+no[label = -];
+ no--no
+no[label = 5];
+ no--no
+no[label = +];
+ no--no
+no[label = 5];
+ no--no
+no[label = *];
+ no--no
+no[label = 16006];
+ no--no
+no[label = -];
+ no--no
+no[label = 16000];
+ no--no
+no[label = +];
+ no--no
+no[label = 4000];
+ no--no
+no[label = /];
+ no--no
+no[label = 2000];
+ no--no
+no[label = +];
+ no--no
+no[label = 3];
+ no--no
+no[label = *];
+ no--no
+no[label = 9];
+ no--no
+no[label = +];
+ no--no
+no[label = 45];
+ no--no
+no[label = /];
+ no--no
+no[label = 5];
+ no--no
+no[label = -];
+ no--no
+no[label = 7];
+ no--no
+no[label = *];
+ no--no
+no[label = 5];
+ no--no
+no[label = *];
+ no--no
+no[label = 40];
+ no--no
+no[label = /];
+ no--no
+no[label = 2];
+ no--no
+no[label = -];
+ no--no
+no[label = 8];
+ no--no
+no[label = +];
+ no--no
+no[label = 2];
+ no--no
+no[label = *];
+ no--no
+no[label = 10];
+ no--no
+no[label = -];
+ no--no
+no[label = 4];
+ no--no
+no[label = +];
+ no--no
+no[label = 4];
+ no--no
+no[label = /];
+ no--no
+no[label = 2];
+ no--no
+no[label = /];
+ no--no
+no[label = 80000];
+ no--no
+no[label = /];
+ no--no
+no[label = 4000];
+ no--no
+no[label = -];
+ no--no
+no[label = 5];
+ no--no
+no[label = +];
+ no--no
+no[label = 5];
+ no--no
+no[label = *];
+ no--no
+no[label = 16006];
+ no--no
+no[label = -];
+ no--no
+no[label = 16000];
+ no--no
+no[label = +];
+ no--no
+no[label = 4000];
+ no--no
+no[label = /];
+ no--no
+no[label = 2000];
+ no--no
+no[label = *];
+ no--no
+no[label = 40];
+ no--no
+no[label = /];
+ no--no
+no[label = 2];
+ no--no
+no[label = -];
+ no--no
+no[label = 8];
+ no--no
+no[label = +];
+ no--no
+no[label = 2];
+ no--no
+no[label = *];
+ no--no
+no[label = 10];
+ no--no
+no[label = -];
+ no--no
+no[label = 4];
+ no--no
+no[label = +];
+ no--no
+no[label = 4];
+ no--no
+no[label = /];
+ no--no
+no[label = 2];
+ no--no
+no[label = /];
+ no--no
+no[label = 80000];
+ no--no
+no[label = /];
+ no--no
+no[label = 4000];
+ no--no
+no[label = -];
+ no--no
+no[label = 5];
+ no--no
+no[label = +];
+ no--no
+no[label = 5];
+ no--no
+no[label = *];
+ no--no
+no[label = 16006];
+ no--no
+no[label = -];
+ no--no
+no[label = 16000];
+ no--no
+no[label = +];
+ no--no
+no[label = 4000];
+ no--no
+no[label = /];
+ no--no
+no[label = 2000];
+ no--no
+no[label = *];
+ no--no
+no[label = 40];
+ no--no
+no[label = /];
+ no--no
+no[label = 2];
+ no--no
+no[label = -];
+ no--no
+no[label = 8];
+ no--no
+no[label = +];
+ no--no
+no[label = 2];
+ no--no
+no[label = *];
+ no--no
+no[label = 10];
+ no--no
+no[label = -];
+ no--no
+no[label = 4];
+ no--no
+no[label = +];
+ no--no
+no[label = 4];
+ no--no
+no[label = /];
+ no--no
+no[label = 2];
+ no--no
+no[label = /];
+ no--no
+no[label = 80000];
+ no--no
+no[label = /];
+ no--no
+no[label = 4000];
+ no--no
+no[label = -];
+ no--no
+no[label = 5];
+ no--no
+no[label = +];
+ no--no
+no[label = 5];
+ no--no
+no[label = *];
+ no--no
+no[label = 16006];
+ no--no
+no[label = -];
+ no--no
+no[label = 16000];
+ no--no
+no[label = +];
+ no--no
+no[label = 4000];
+ no--no
+no[label = /];
+ no--no
+no[label = 2000];
+ no--no
+no[label = *];
+ no--no
+no[label = 40];
+ no--no
+no[label = /];
+ no--no
+no[label = 2];
+ no--no
+no[label = -];
+ no--no
+no[label = 8];
+ no--no
+no[label = +];
+ no--no
+no[label = 2];
+ no--no
+no[label = *];
+ no--no
+no[label = 10];
+ no--no
+no[label = -];
+ no--no
+no[label = 4];
+ no--no
+no[label = +];
+ no--no
+no[label = 4];
+ no--no
+no[label = /];
+ no--no
+no[label = 2];
+ no--no
+no[label = /];
+ no--no
+no[label = 80000];
+ no--no
+no[label = /];
+ no--no
+no[label = 4000];
+ no--no
+no[label = -];
+ no--no
+no[label = 5];
+ no--no
+no[label = +];
+ no--no
+no[label = 5];
+ no--no
+no[label = *];
+ no--no
+no[label = 16006];
+ no--no
+no[label = -];
+ no--no
+no[label = 16000];
+ no--no
+no[label = +];
+ no--no
+no[label = 4000];
+ no--no
+no[label = /];
+ no--no
+no[label = 2000];
+ no--no
+no[label = +];
+ no--no
+no[label = 3];
+ no--no
+no[label = *];
+ no--no
+no[label = 9];
+ no--no
+no[label = +];
+ no--no
+no[label = 45];
+ no--no
+no[label = /];
+ no--no
+no[label = 5];
+ no--no
+no[label = -];
+ no--no
+no[label = 7];
+ no--no
+no[label = *];
+ no--no
+no[label = 5];
+ no--no
+no[label = *];
+ no--no
+no[label = 40];
+ no--no
+no[label = /];
+ no--no
+no[label = 2];
+ no--no
+no[label = -];
+ no--no
+no[label = 8];
+ no--no
+no[label = +];
+ no--no
+no[label = 2];
+ no--no
+no[label = *];
+ no--no
+no[label = 10];
+ no--no
+no[label = -];
+ no--no
+no[label = 4];
+ no--no
+no[label = +];
+ no--no
+no[label = 4];
+ no--no
+no[label = /];
+ no--no
+no[label = 2];
+ no--no
+no[label = /];
+ no--no
+no[label = 80000];
+ no--no
+no[label = /];
+ no--no
+no[label = 4000];
+ no--no
+no[label = -];
+ no--no
+no[label = 5];
+ no--no
+no[label = +];
+ no--no
+no[label = 5];
+ no--no
+no[label = *];
+ no--no
+no[label = 16006];
+ no--no
+no[label = -];
+ no--no
+no[label = 16000];
+ no--no
+no[label = +];
+ no--no
+no[label = 4000];
+ no--no
+no[label = /];
+ no--no
+no[label = 2000];
+ no--no
+no[label = *];
+ no--no
+no[label = 40];
+ no--no
+no[label = /];
+ no--no
+no[label = 2];
+ no--no
+no[label = -];
+ no--no
+no[label = 8];
+ no--no
+no[label = +];
+ no--no
+no[label = 2];
+ no--no
+no[label = *];
+ no--no
+no[label = 10];
+ no--no
+no[label = -];
+ no--no
+no[label = 4];
+ no--no
+no[label = +];
+ no--no
+no[label = 4];
+ no--no
+no[label = /];
+ no--no
+no[label = 2];
+ no--no
+no[label = /];
+ no--no
+no[label = 80000];
+ no--no
+no[label = /];
+ no--no
+no[label = 4000];
+ no--no
+no[label = -];
+ no--no
+no[label = 5];
+ no--no
+no[label = +];
+ no--no
+no[label = 5];
+ no--no
+no[label = *];
+ no--no
+no[label = 16006];
+ no--no
+no[label = -];
+ no--no
+no[label = 16000];
+ no--no
+no[label = +];
+ no--no
+no[label = 4000];
+ no--no
+no[label = /];
+ no--no
+no[label = 2000];
+ no--no
+no[label = *];
+ no--no
+no[label = 40];
+ no--no
+no[label = /];
+ no--no
+no[label = 2];
+ no--no
+no[label = -];
+ no--no
+no[label = 8];
+ no--no
+no[label = +];
+ no--no
+no[label = 2];
+ no--no
+no[label = *];
+ no--no
+no[label = 10];
+ no--no
+no[label = -];
+ no--no
+no[label = 4];
+ no--no
+no[label = +];
+ no--no
+no[label = 4];
+ no--no
+no[label = /];
+ no--no
+no[label = 2];
+ no--no
+no[label = /];
+ no--no
+no[label = 80000];
+ no--no
+no[label = /];
+ no--no
+no[label = 4000];
+ no--no
+no[label = -];
+ no--no
+no[label = 5];
+ no--no
+no[label = +];
+ no--no
+no[label = 5];
+ no--no
+no[label = *];
+ no--no
+no[label = 16006];
+ no--no
+no[label = -];
+ no--no
+no[label = 16000];
+ no--no
+no[label = +];
+ no--no
+no[label = 4000];
+ no--no
+no[label = /];
+ no--no
+no[label = 2000];
+ no--no
+no[label = *];
+ no--no
+no[label = 40];
+ no--no
+no[label = /];
+ no--no
+no[label = 2];
+ no--no
+no[label = -];
+ no--no
+no[label = 8];
+ no--no
+no[label = +];
+ no--no
+no[label = 2];
+ no--no
+no[label = *];
+ no--no
+no[label = 10];
+ no--no
+no[label = -];
+ no--no
+no[label = 4];
+ no--no
+no[label = +];
+ no--no
+no[label = 4];
+ no--no
+no[label = /];
+ no--no
+no[label = 2];
+ no--no
+no[label = /];
+ no--no
+no[label = 80000];
+ no--no
+no[label = /];
+ no--no
+no[label = 4000];
+ no--no
+no[label = -];
+ no--no
+no[label = 5];
+ no--no
+no[label = +];
+ no--no
+no[label = 5];
+ no--no
+no[label = *];
+ no--no
+no[label = 16006];
+ no--no
+no[label = -];
+ no--no
+no[label = 16000];
+ no--no
+no[label = +];
+ no--no
+no[label = 4000];
+ no--no
+no[label = /];
+ no--no
+no[label = 2000];
+ no--no
+no[label = /];
+ no--no
+no[label = 40];
+ no--no
+no[label = /];
+ no--no
+no[label = 2];
+ no--no
+no[label = -];
+ no--no
+no[label = 8];
+ no--no
+no[label = +];
+ no--no
+no[label = 2];
+ no--no
+no[label = *];
+ no--no
+no[label = 10];
+ no--no
+no[label = -];
+ no--no
+no[label = 4];
+ no--no
+no[label = +];
+ no--no
+no[label = 4];
+ no--no
+no[label = /];
+ no--no
+no[label = 2];
+ no--no
+no[label = /];
+ no--no
+no[label = 80000];
+ no--no
+no[label = /];
+ no--no
+no[label = 4000];
+ no--no
+no[label = -];
+ no--no
+no[label = 5];
+ no--no
+no[label = +];
+ no--no
+no[label = 5];
+ no--no
+no[label = *];
+ no--no
+no[label = 16006];
+ no--no
+no[label = -];
+ no--no
+no[label = 16000];
+ no--no
+no[label = +];
+ no--no
+no[label = 4000];
+ no--no
+no[label = /];
+ no--no
+no[label = 2000];
+ no--no
+no[label = *];
+ no--no
+no[label = 40];
+ no--no
+no[label = /];
+ no--no
+no[label = 2];
+ no--no
+no[label = -];
+ no--no
+no[label = 8];
+ no--no
+no[label = +];
+ no--no
+no[label = 2];
+ no--no
+no[label = *];
+ no--no
+no[label = 10];
+ no--no
+no[label = -];
+ no--no
+no[label = 4];
+ no--no
+no[label = +];
+ no--no
+no[label = 4];
+ no--no
+no[label = /];
+ no--no
+no[label = 2];
+ no--no
+no[label = /];
+ no--no
+no[label = 80000];
+ no--no
+no[label = /];
+ no--no
+no[label = 4000];
+ no--no
+no[label = -];
+ no--no
+no[label = 5];
+ no--no
+no[label = +];
+ no--no
+no[label = 5];
+ no--no
+no[label = *];
+ no--no
+no[label = 16006];
+ no--no
+no[label = -];
+ no--no
+no[label = 16000];
+ no--no
+no[label = +];
+ no--no
+no[label = 4000];
+ no--no
+no[label = /];
+ no--no
+no[label = 2000];
+ no--no
+no[label = *];
+ no--no
+no[label = 40];
+ no--no
+no[label = /];
+ no--no
+no[label = 2];
+ no--no
+no[label = -];
+ no--no
+no[label = 8];
+ no--no
+no[label = +];
+ no--no
+no[label = 2];
+ no--no
+no[label = *];
+ no--no
+no[label = 10];
+ no--no
+no[label = -];
+ no--no
+no[label = 4];
+ no--no
+no[label = +];
+ no--no
+no[label = 4];
+ no--no
+no[label = /];
+ no--no
+no[label = 2];
+ no--no
+no[label = /];
+ no--no
+no[label = 80000];
+ no--no
+no[label = /];
+ no--no
+no[label = 4000];
+ no--no
+no[label = -];
+ no--no
+no[label = 5];
+ no--no
+no[label = +];
+ no--no
+no[label = 5];
+ no--no
+no[label = *];
+ no--no
+no[label = 16006];
+ no--no
+no[label = -];
+ no--no
+no[label = 16000];
+ no--no
+no[label = +];
+ no--no
+no[label = 4000];
+ no--no
+no[label = /];
+ no--no
+no[label = 2000];
+ no--no
+no[label = *];
+ no--no
+no[label = 40];
+ no--no
+no[label = /];
+ no--no
+no[label = 2];
+ no--no
+no[label = -];
+ no--no
+no[label = 8];
+ no--no
+no[label = +];
+ no--no
+no[label = 2];
+ no--no
+no[label = *];
+ no--no
+no[label = 10];
+ no--no
+no[label = -];
+ no--no
+no[label = 4];
+ no--no
+no[label = +];
+ no--no
+no[label = 4];
+ no--no
+no[label = /];
+ no--no
+no[label = 2];
+ no--no
+no[label = /];
+ no--no
+no[label = 80000];
+ no--no
+no[label = /];
+ no--no
+no[label = 4000];
+ no--no
+no[label = -];
+ no--no
+no[label = 5];
+ no--no
+no[label = +];
+ no--no
+no[label = 5];
+ no--no
+no[label = *];
+ no--no
+no[label = 16006];
+ no--no
+no[label = -];
+ no--no
+no[label = 16000];
+ no--no
+no[label = +];
+ no--no
+no[label = 4000];
+ no--no
+no[label = /];
+ no--no
+no[label = 2000];
+ no--no
+no[label = +];
+ no--no
+no[label = 3];
+ no--no
+no[label = *];
+ no--no
+no[label = 9];
+ no--no
+no[label = +];
+ no--no
+no[label = 45];
+ no--no
+no[label = /];
+ no--no
+no[label = 5];
+ no--no
+no[label = -];
+ no--no
+no[label = 7];
+ no--no
+no[label = *];
+ no--no
+no[label = 5];
+ no--no
+no[label = *];
+ no--no
+no[label = 40];
+ no--no
+no[label = /];
+ no--no
+no[label = 2];
+ no--no
+no[label = -];
+ no--no
+no[label = 8];
+ no--no
+no[label = +];
+ no--no
+no[label = 2];
+ no--no
+no[label = *];
+ no--no
+no[label = 10];
+ no--no
+no[label = -];
+ no--no
+no[label = 4];
+ no--no
+no[label = +];
+ no--no
+no[label = 4];
+ no--no
+no[label = /];
+ no--no
+no[label = 2];
+ no--no
+no[label = /];
+ no--no
+no[label = 80000];
+ no--no
+no[label = /];
+ no--no
+no[label = 4000];
+ no--no
+no[label = -];
+ no--no
+no[label = 5];
+ no--no
+no[label = +];
+ no--no
+no[label = 5];
+ no--no
+no[label = *];
+ no--no
+no[label = 16006];
+ no--no
+no[label = -];
+ no--no
+no[label = 16000];
+ no--no
+no[label = +];
+ no--no
+no[label = 4000];
+ no--no
+no[label = /];
+ no--no
+no[label = 2000];
+ no--no
+no[label = *];
+ no--no
+no[label = 40];
+ no--no
+no[label = /];
+ no--no
+no[label = 2];
+ no--no
+no[label = -];
+ no--no
+no[label = 8];
+ no--no
+no[label = +];
+ no--no
+no[label = 2];
+ no--no
+no[label = *];
+ no--no
+no[label = 10];
+ no--no
+no[label = -];
+ no--no
+no[label = 4];
+ no--no
+no[label = +];
+ no--no
+no[label = 4];
+ no--no
+no[label = /];
+ no--no
+no[label = 2];
+ no--no
+no[label = /];
+ no--no
+no[label = 80000];
+ no--no
+no[label = /];
+ no--no
+no[label = 4000];
+ no--no
+no[label = -];
+ no--no
+no[label = 5];
+ no--no
+no[label = +];
+ no--no
+no[label = 5];
+ no--no
+no[label = *];
+ no--no
+no[label = 16006];
+ no--no
+no[label = -];
+ no--no
+no[label = 16000];
+ no--no
+no[label = +];
+ no--no
+no[label = 4000];
+ no--no
+no[label = /];
+ no--no
+no[label = 2000];
+ no--no
+no[label = *];
+ no--no
+no[label = 40];
+ no--no
+no[label = /];
+ no--no
+no[label = 2];
+ no--no
+no[label = -];
+ no--no
+no[label = 8];
+ no--no
+no[label = +];
+ no--no
+no[label = 2];
+ no--no
+no[label = *];
+ no--no
+no[label = 10];
+ no--no
+no[label = -];
+ no--no
+no[label = 4];
+ no--no
+no[label = +];
+ no--no
+no[label = 4];
+ no--no
+no[label = /];
+ no--no
+no[label = 2];
+ no--no
+no[label = /];
+ no--no
+no[label = 80000];
+ no--no
+no[label = /];
+ no--no
+no[label = 4000];
+ no--no
+no[label = -];
+ no--no
+no[label = 5];
+ no--no
+no[label = +];
+ no--no
+no[label = 5];
+ no--no
+no[label = *];
+ no--no
+no[label = 16006];
+ no--no
+no[label = -];
+ no--no
+no[label = 16000];
+ no--no
+no[label = +];
+ no--no
+no[label = 4000];
+ no--no
+no[label = /];
+ no--no
+no[label = 2000];
+ no--no
+no[label = *];
+ no--no
+no[label = 40];
+ no--no
+no[label = /];
+ no--no
+no[label = 2];
+ no--no
+no[label = -];
+ no--no
+no[label = 8];
+ no--no
+no[label = +];
+ no--no
+no[label = 2];
+ no--no
+no[label = *];
+ no--no
+no[label = 10];
+ no--no
+no[label = -];
+ no--no
+no[label = 4];
+ no--no
+no[label = +];
+ no--no
+no[label = 4];
+ no--no
+no[label = /];
+ no--no
+no[label = 2];
+ no--no
+no[label = /];
+ no--no
+no[label = 80000];
+ no--no
+no[label = /];
+ no--no
+no[label = 4000];
+ no--no
+no[label = -];
+ no--no
+no[label = 5];
+ no--no
+no[label = +];
+ no--no
+no[label = 5];
+ no--no
+no[label = *];
+ no--no
+no[label = 16006];
+ no--no
+no[label = -];
+ no--no
+no[label = 16000];
+ no--no
+no[label = +];
+ no--no
+no[label = 4000];
+ no--no
+no[label = /];
+ no--no
+no[label = 2000];
+ no--no
+no[label = +];
+ no--no
+no[label = 3];
+ no--no
+no[label = *];
+ no--no
+no[label = 9];
+ no--no
+no[label = +];
+ no--no
+no[label = 45];
+ no--no
+no[label = /];
+ no--no
+no[label = 5];
+ no--no
+no[label = -];
+ no--no
+no[label = 7];
+ no--no
+no[label = *];
+ no--no
+no[label = 5];
+ no--no
+}
+
+strict graph {
+
+no[label = 2];
+ no--no
+no[label = +];
+ no--no
+no[label = 2];
+ no--no
+}
+
+strict graph {
+
+no[label = 2];
+ no--no
+no[label = +];
+ no--no
+no[label = 2];
+ no--no
+no[label = /];
+ no--no
+no[label = 2];
+ no--no
+}
+
+strict graph {
+
+no[label = 2];
+ no--no
+no[label = +];
+ no--no
+no[label = 2];
+ no--no
+no[label = /];
+ no--no
+no[label = 2];
+ no--no
+no[label = *];
+ no--no
+no[label = 2];
+ no--no
+no[label = +];
+ no--no
+no[label = 2];
+ no--no
+}
+
+strict graph {
+
+no[label = 2];
+ no--no
+no[label = +];
+ no--no
+no[label = 2];
+ no--no
+no[label = /];
+ no--no
+no[label = 2];
+ no--no
+no[label = +];
+ no--no
+no[label = 2];
+ no--no
+no[label = /];
+ no--no
+no[label = 2];
+ no--no
+no[label = *];
+ no--no
+no[label = 2];
+ no--no
+no[label = +];
+ no--no
+no[label = 2];
+ no--no
+}
+
+strict graph {
+
+no[label = 2];
+ no--no
+no[label = +];
+ no--no
+no[label = 2];
+ no--no
+no[label = /];
+ no--no
+no[label = 2];
+ no--no
+no[label = +];
+ no--no
+no[label = 2];
+ no--no
+no[label = /];
+ no--no
+no[label = 2];
+ no--no
+no[label = *];
+ no--no
+no[label = 2];
+ no--no
+no[label = +];
+ no--no
+no[label = 2];
+ no--no
+no[label = *];
+ no--no
+no[label = 2];
+ no--no
+no[label = +];
+ no--no
+no[label = 2];
+ no--no
+no[label = /];
+ no--no
+no[label = 2];
+ no--no
+}
+
+strict graph {
+
+no[label = 999];
+ no--no
+no[label = +];
+ no--no
+no[label = 15000000];
+ no--no
+}
+
+strict graph {
+
+no[label = 865];
+ no--no
+no[label = /];
+ no--no
+no[label = 2];
+ no--no
+}
+
+strict graph {
+
+no[label = 108831];
+ no--no
+no[label = /];
+ no--no
+no[label = 1];
+ no--no
+}
+

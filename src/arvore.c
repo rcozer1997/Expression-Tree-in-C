@@ -25,38 +25,24 @@ Node* criaNo(Node* dir, Node* esq, char* caracter)
         raiz->dir = dir;
         raiz->esq = esq;
 
-        printf("String: %s, Primeiro Digito: %d\n\n", caracter, caracter[0]);
-
           return raiz;
      
 }
 
 
-void printaArvore(Node* raiz){
+void liberaArvore(Node* arv){
 
-    if(raiz != NULL){
-      printf("<%s", raiz->caracter);
-      printaArvore(raiz->esq);
-      printaArvore(raiz->dir);
-      printf(">");
-    }
-    else 
-      printf("<>"); 
-}
-
-void liberaArvore(Node* raiz){
-
-    if(raiz != NULL){
-      liberaArvore(raiz->esq);
-      liberaArvore(raiz->dir);
-      free(raiz);
+    if(arv != NULL){
+      liberaArvore(arv->esq);
+      liberaArvore(arv->dir);
+      free(arv);
     }
 
 }
 
 
 Node* montaArvore(FILE* arq){
-    char buffer[100];
+    char buffer[1000];
     int i;
    buffer[0] = fgetc(arq);
     
@@ -68,7 +54,7 @@ Node* montaArvore(FILE* arq){
         if(isspace (buffer[0]) || buffer[0] == EOF){
             //come o "caracter" de final de arquivo
             //caso seja linux, REMOVER este fgetc
-            fgetc(arq);        
+            //fgetc(arq);        
             return no;
         }
      buffer[1] = '\0';
@@ -93,23 +79,9 @@ Node* montaArvore(FILE* arq){
     
 }
 
-
-
-/*void preOrdem(Node* raiz){
-
-  if(raiz != NULL){
-    //printf("%s\t", raiz->caracter);
-    preOrdem(raiz->dir);
-    preOrdem(raiz->esq);
-
-  }
-
-}*/
-
-
-float calculaArvore(Node* no)
+float calculaExpressoes(Node* no)
 {   
-    
+    float resultado;
     char* c = retornaCaracter(no);
     if(no != NULL) 
     {
@@ -117,11 +89,18 @@ float calculaArvore(Node* no)
       //entao é numero
        return atoi(c);
        
-      }
-    
-    float subArvEsq = calculaArvore(no->esq);
-    float subArvDir = calculaArvore(no->dir);
-    
+      }  
+    float subArvEsq = calculaExpressoes(no->esq);
+    float subArvDir = calculaExpressoes(no->dir);
+
+      resultado = confereOperadores(no, subArvEsq, subArvDir);
+      return resultado;
+    }
+
+} 
+
+float confereOperadores(Node* no, float subArvEsq, float subArvDir){
+
     if(retornaCaracter(no)[0] == '+'){
       return (subArvEsq + subArvDir);
     }
@@ -135,27 +114,32 @@ float calculaArvore(Node* no)
       return (subArvEsq * subArvDir);
     }
 
+}
+
+char* retornaCaracter(Node* no){
+
+    if(no != NULL)
+    {
+      return no->caracter;
     }
+}
 
-} 
-
-/*void criaSaida(float resultado){
-    FILE* saidas = fopen("data/saida.txt", "w");
-   
-    fprintf(saidas, "%.2f\n", resultado);
-
-    //free(aux);
-    fclose(saidas);
+void emOrdem(Node* arv, FILE* graph)
+{
+   //number = number + 1;
+   int i;
+ if(arv!=NULL)
+ {
+  emOrdem(arv->esq, graph);  
+  fprintf(graph, "no[label = %s];\n no--no\n",arv->caracter);
+  emOrdem(arv->dir, graph);
+ }
+ 
+}
+/*
+int quantNodes(Node* arv){
+  if (arv!= NULL){
+    return 1 + quantNodes(arv->esq) + quantNodes(arv->dir);
+  }
 
 }*/
-
-char* retornaCaracter(Node* arv){
-
-    if(arv != NULL)
-    {
-      return arv->caracter;
-    }
-
-
-
-}
